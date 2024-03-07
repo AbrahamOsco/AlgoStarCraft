@@ -1,10 +1,9 @@
-![tp2](https://github.com/fiuba/algo3_proyecto_base_tp2/actions/workflows/build.yml/badge.svg) [![codecov](https://codecov.io/gh/fiuba/algo3_proyecto_base_tp2/branch/master/graph/badge.svg)](https://codecov.io/gh/fiuba/algo3_proyecto_base_tp2)
+<img src='https://codecov.io/gh/fiuba/algo3_proyecto_base_tp2/branch/master/graph/badge.svg'>
 # TP2 Algoritmos 3: {AlgoStar} 
-
 Trabajo Práctico número 2 de la materia Algoritmos y Programación III de FIUBA
 ###Informe: https://www.overleaf.com/project/6374fed53bf6d0da391f779b
 
-## Grupo {N}
+## Grupo {7}
 
 * **Abraham Osco** - https://github.com/AbrahamOsco
 * **Nicolas Girardi** - https://github.com/nicolasgirardi
